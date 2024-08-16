@@ -6,7 +6,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 from utils import file_handler, pdf_converter
 
 # Replace with your bot token, API ID, and API Hash
-BOT_TOKEN = 'YOUR_BOT_TOKEN'
+BOT_TOKEN = '7220840802:AAEYee75LzRu9Y6gtECw6buuh3Azy_ZSJ7c'
 API_ID = 'YOUR_API_ID'
 API_HASH = 'YOUR_API_HASH'
 
