@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+zipfile
+Pillow
+PyPDF2
+gunicorn
